@@ -1,2 +1,2 @@
 # Nayetwolf.github.io
-Aspiring Devoloper
+Aspiring Developer
